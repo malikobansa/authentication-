@@ -1,6 +1,6 @@
 ## Authentication request to access protected resources
 To authenticate request to access protected resources send a **POST** request to this route
-`https://api.zuri.chat/auth/login` and in the payload provide the email and password in json format.
+https://api.zuri.chat/auth/login and in the payload provide the email and password in json format.
 e.g.
 ```sh
 {

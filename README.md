@@ -56,7 +56,7 @@ When it shows:
 ```
 
 ## Authentication request to logout
-To authenticate request to logout send a **GET** request to this route `https://api.zuri.chat/auth/logout` and in the payload when click it provides this in json  format, it shows
+To authenticate request to logout send a **GET** request to this route https://api.zuri.chat/auth/logout and in the payload when click it provides this in json  format, it shows
 -200 logged out successfully
 ```sh
 {
@@ -79,7 +79,7 @@ To authenticate request to logout send a **GET** request to this route `https://
 }
 ```
 ## Authentication request to logout 
-To authenticate request to logout send a **POST** request to this route `https://api.zuri.chat/auth/logout` and in the payload when click it provides this in json  format, it shows
+To authenticate request to logout send a **POST** request to this route https://api.zuri.chat/auth/logout and in the payload when click it provides this in json  format, it shows
 -200 logged out successfully
 ```sh
 {
@@ -105,7 +105,7 @@ To authenticate request to logout send a **POST** request to this route `https:/
 ```
 ## validates the user before access is granted.
 To validate the user before access is granted send a **POST** request to this route
-`https://api.zuri.chat/auth/verify-token` and in the payload provide the message in json format.
+https://api.zuri.chat/auth/verify-token and in the payload provide the message in json format.
 e.g.
 it shows:
 - 200 Token verification successful
